@@ -11,3 +11,7 @@ mv startphp.sh ../
 mv startsql.sh ../
 
 termux-setup-storage
+
+cd /sdcard
+
+mkdir php
